@@ -13,6 +13,6 @@ kustomization deployment.
 # Kustomization
 - Provision Kubernetes resources for the application.
 
-### Next Steps
+### To-Do
 - Create overlays in multiple env (sit, uat, prd).
 - Deploy configmap and secret separately from source code.
